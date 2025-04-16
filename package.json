@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ratheesh-kmr/Finance-viz-backend#readme",
   "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^5.1.0",
     "nodemon": "^3.1.9"
   }
 }
